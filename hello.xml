@@ -1,1 +1,7 @@
-<note>This is conflicting content from main branch</note>
+<<<<<<< HEAD
+<note>This is merged content from both branches</note>
+
+=======
+<message>Hello from GitWork branch</message>
+
+>>>>>>> GitWork
